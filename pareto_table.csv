@@ -1,0 +1,8 @@
+defect_type,frequency,percentage,cumulative_percentage
+Other_Faults,673,34.67,34.67
+Bumps,402,20.71,55.38
+K_Scatch,391,20.14,75.53
+Z_Scratch,190,9.79,85.32
+Pastry,158,8.14,93.46
+Stains,72,3.71,97.17
+Dirtiness,55,2.83,100.0
